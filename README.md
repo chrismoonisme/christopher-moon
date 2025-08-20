@@ -1,2 +1,2 @@
 Christopher Moon
--UCSC Student
+-UCSC Computer Science Graduate
